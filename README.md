@@ -14,7 +14,7 @@ Data Visualization with Tableau
 
 After extracting insights through SQL, I used Tableau to create an dashboard.
 
-!(Image)[https://github.com/fahad-1337/Analyzing-Bike-Sales-Data/blob/b03f3900b148ae0af3d0e862cb454ded084c1687/bike_sales_dashboard.png]
+![Image](https://github.com/fahad-1337/Analyzing-Bike-Sales-Data/blob/b03f3900b148ae0af3d0e862cb454ded084c1687/bike_sales_dashboard.png)
 
 # Insights
 
